@@ -5,10 +5,11 @@ Student or group name:
 Date:
 
 ## Bug 01
+1. Add Launch Check
 
 ### Problem
 
-What was broken?
+Add launch checks were not saving to the localStorage hence when clicked just nothing happened
 
 ### Steps to Reproduce
 
